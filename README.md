@@ -5,7 +5,7 @@ Random result:
 
 PHP Test Benchmark v1.0 - Calculations
 
-Mathematical Operations: 0.277 sec.
+Mathematical Operations: 0.277 sec. <br />
 String Operations: 2.589 sec.
 Operations on conditional statements: 0.005 sec.
 Operations on loops: 0.003 sec.
